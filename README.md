@@ -1,1 +1,1 @@
-# Erlang
+This is a copy of the <a href="http://www.squeaksource.com/Erlang">Erlang on pharo project from Andrew Black</a>. Some smaller fixes are added to make it run in pharo 4.0 and to add missing methods from the package.
