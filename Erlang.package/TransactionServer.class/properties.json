@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BasicServer",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TransactionServer",
+	"type" : "normal"
+}

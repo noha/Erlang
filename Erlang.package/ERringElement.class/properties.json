@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ERObject",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next"
+	],
+	"name" : "ERringElement",
+	"type" : "normal"
+}

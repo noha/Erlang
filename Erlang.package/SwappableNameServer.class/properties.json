@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NameServer",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SwappableNameServer",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ERringElement",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ERringLeader",
+	"type" : "normal"
+}

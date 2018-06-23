@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"proc",
+		"counter"
+	],
+	"name" : "ERObject",
+	"type" : "normal"
+}

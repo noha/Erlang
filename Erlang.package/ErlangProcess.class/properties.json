@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Process",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ErlangNameServer"
+	],
+	"instvars" : [
+		"mailbox"
+	],
+	"name" : "ErlangProcess",
+	"type" : "normal"
+}

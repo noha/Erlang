@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ERObject",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"PongCount"
+	],
+	"instvars" : [ ],
+	"name" : "ERPong",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+running
+terminate
+	^ proc terminate
+	 

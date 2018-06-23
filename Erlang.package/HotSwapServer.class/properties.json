@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TransactionServer",
+	"category" : "Erlang-Servers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HotSwapServer",
+	"type" : "normal"
+}

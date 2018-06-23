@@ -1,0 +1,1 @@
+NameServerClerk has no instance methods.  The class side methods simulate the purly functional (stateless) interface that Armstrong calls the "client routines".
